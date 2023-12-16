@@ -28,12 +28,12 @@ Project Structure:
 
 Usage
 To replicate or build upon this project, follow these steps:
+1. Clone the Repository: git clone [repository_url]
+2. Install Dependencies: Review the requirements.txt file and install necessary libraries using pip install -r requirements.txt.
+3. Explore Notebooks: Navigate to the notebooks/ directory and run Jupyter notebooks for data exploration, model training, and evaluation.
+4. Model Training: Utilize code in the src/ directory to preprocess data, build models, and evaluate their performance.
 
-Clone the Repository: git clone [repository_url]
-Install Dependencies: Review the requirements.txt file and install necessary libraries using pip install -r requirements.txt.
-Explore Notebooks: Navigate to the notebooks/ directory and run Jupyter notebooks for data exploration, model training, and evaluation.
-Model Training: Utilize code in the src/ directory to preprocess data, build models, and evaluate their performance.
-Results
+Results:
 The model(s) developed in this project achieved [describe performance metrics - accuracy, RMSE, etc.]. Detailed analysis and visualizations can be found in the notebooks provided.
 
 Contributing:
